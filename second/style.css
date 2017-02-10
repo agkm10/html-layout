@@ -1,0 +1,42 @@
+.main {
+width: 100%;
+}
+
+.first {
+  width: 33%;
+  height: 500px;
+  background-color: #4a90e2;
+  float: left;
+
+}
+
+.second {
+  width: 33%;
+  height: 500px;
+  background-color: #50e3c2;
+  float: left;
+}
+
+.third {
+  width: 33%;
+  height: 400px;
+background-color: #b8e986;
+float: left;
+}
+
+.fourth {
+  height:100px;
+  background-color: #d0021b;
+  clear: right;
+  width: 33%;
+  text-align: center;
+  display: inline-block;
+  color: white;
+  float: left;
+  font-family: monospace;
+}
+
+.fourth p {
+  margin-top: 40px;
+
+}

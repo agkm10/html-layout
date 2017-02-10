@@ -1,0 +1,19 @@
+body {
+  background-color: #d8d8d8;
+}
+.header {
+  background-color: #444444;
+  height: 100px;
+}
+.middle {
+  background-color: #efefef;
+  width: 65%;
+  margin: auto;
+}
+.midTop {
+  height:600px;
+}
+.footer {
+  background-color: #222222;
+  height: 50px;
+}
